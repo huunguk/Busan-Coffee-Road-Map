@@ -1,0 +1,11 @@
+.footer {
+  width: 100%;
+  height: 300px;
+}
+
+.footer_line {
+  width: 95%;
+  height: 5px;
+  margin: 0 auto;
+  border-bottom: 2px solid gray;
+}

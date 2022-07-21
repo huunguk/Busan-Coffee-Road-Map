@@ -1,0 +1,59 @@
+.menuBar {
+  /* padding: 1rem; */
+  background: #be5eff;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+
+.tabs {
+  width: 60%;
+  /* height: 100px; */
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tabs li {
+  font-size: 1rem;
+  font-weight: bold;
+  display: inline-block;
+  color: #efefef;
+  padding: 1rem;
+  cursor: pointer;
+
+}
+
+.tabs li.active {
+  background-color: #6f03b7;
+  height: 100%;
+}
+
+/*  각 구역 */
+
+/* .store_list {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  height: 500px;
+  margin: 0 auto;
+  background-color: aquamarine;
+  text-align: center;
+} */
+
+.store_list {
+  background-color: aqua;
+  float: left;
+  margin: 30px 0px 30px 150px;
+}
+
+.store_img {
+  display: block;
+  width: 300px;
+  height: 300px;
+}
+
+.store_list h4 {
+  color: red;
+}

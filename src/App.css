@@ -1,0 +1,34 @@
+.header {
+  width: 100%;
+}
+
+.header_in {
+  width: 100%;
+  height: 150px;
+  background-color: pink;
+  display: flex;
+}
+
+.logo {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-image: url(../public/images/coffeelogo.png);
+  background-size: cover;
+  margin: 25px 0px 0 100px;
+}
+
+.nav {
+  width: 70%;
+  height: 150px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.nav li {
+  font-size: 20px;
+  color: black
+}
