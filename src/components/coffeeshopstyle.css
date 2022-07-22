@@ -1,6 +1,6 @@
 .menuBar {
   /* padding: 1rem; */
-  background: #be5eff;
+  background: navy;
   width: 100%;
   margin-bottom: 1rem;
 }
@@ -8,7 +8,6 @@
 
 .tabs {
   width: 60%;
-  /* height: 100px; */
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -26,7 +25,7 @@
 }
 
 .tabs li.active {
-  background-color: #6f03b7;
+  background-color: rgb(78, 78, 78);
   height: 100%;
 }
 
@@ -43,9 +42,11 @@
 } */
 
 .store_list {
-  background-color: aqua;
   float: left;
-  margin: 30px 0px 30px 150px;
+  margin: 30px 0px 20px 150px;
+  text-align: center;
+  border: 1px solid rgb(66, 66, 66);
+  box-shadow: 1px 1px black;
 }
 
 .store_img {
@@ -55,5 +56,9 @@
 }
 
 .store_list h4 {
-  color: red;
+  font-size: 16px;
+}
+
+.store_list p {
+  color: gray
 }

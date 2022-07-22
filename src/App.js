@@ -9,33 +9,36 @@ import { Link, Route } from 'react-router-dom';
 //서브페이지 연결
 import MainCom from './mainCom';
 import CoffeeShop from './components/coffeeShop';
-import Market from './components/market';
+import BestPlace from './components/bestPlace';
 import Login from './components/login';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 function App() {
   return (
     // 상단부분
-    <div>
+    <div className='main'>
       <header className='header'>
         <div className='header_in'>
+          <ul className='nav'>
+            <li><Link to=''><span>About us</span></Link></li>
+            <li><Link to='/components/coffeeshop'>RoadMap</Link></li>
+          </ul>
           <div className='logo'></div>
           <ul className='nav'>
-            <li><Link to=''>home</Link></li>
-            <li><Link to='/components/coffeeshop'>coffeeshop</Link></li>
-            <li><Link to='/components/market'>market</Link></li>
-            <li><Link to='/components/login'>login</Link></li>
+            <li><Link to='/components/bestPlace'>BestPlace</Link></li>
+            <li><Link to='/components/login'>Login</Link></li>
           </ul>
         </div>
-      </header>
+      </header >
       {/* {본문내용} */}
       <div>
         <Route path='/' exact={true} component={MainCom} />
         <Route path='/components/coffeeshop' component={CoffeeShop} />
-        <Route path='/components/market' component={Market} />
+        <Route path='/components/bestPlace' component={BestPlace} />
         <Route path='/components/login' component={Login} />
-      </div>
-    </div>
+      </div >
+    </div >
   );
 }
 

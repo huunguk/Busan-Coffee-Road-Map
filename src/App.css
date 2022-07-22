@@ -1,26 +1,29 @@
 .header {
   width: 100%;
+
 }
 
 .header_in {
   width: 100%;
-  height: 150px;
-  background-color: pink;
   display: flex;
+  background-image: url(../public/images/main3.jpg);
+  background-size: cover;
+  border-top: 4px double black;
+  border-bottom: 4px double black;
+  margin-top: 30px;
 }
 
 .logo {
   display: block;
-  width: 100px;
-  height: 100px;
-  background-image: url(../public/images/coffeelogo.png);
-  background-size: cover;
-  margin: 25px 0px 0 100px;
+  width: 170px;
+  background-image: url(../public/images/BCRM.png);
+  background-repeat: no-repeat;
+  margin-top: 30px;
 }
 
 .nav {
-  width: 70%;
-  height: 150px;
+  width: 25%;
+  height: 130px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -29,6 +32,12 @@
 
 
 .nav li {
-  font-size: 20px;
-  color: black
+  font-size: 24px;
+  color: black;
+  font-weight: 900;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: black;
 }
