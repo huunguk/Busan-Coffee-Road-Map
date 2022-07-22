@@ -4,7 +4,6 @@
 
 ## 🔥 Link (BusanCoffeeRoadMap)
 ![mainimag](https://user-images.githubusercontent.com/100752008/180446375-1c4bb7ef-97ff-4d8e-b2de-c2692d4d37cf.PNG)
-![main](https://user-images.githubusercontent.com/100752008/180446391-49649f1e-7c76-41e0-a19e-7a6e44f1f2c7.PNG)
 <!--  ### [Go To "BusanCoffeeRoadMap"](https://huunguk.github.io/AesopProject/) -->
 
 <br>
@@ -36,7 +35,9 @@ We are traveling의 약자이며 여행자들을 대상으로 서비스를 제�
 <br>
 
 ## 📌 TroubleShooting 
-### 1. 
+### 1. RoadMap section 
+![main](https://user-images.githubusercontent.com/100752008/180446391-49649f1e-7c76-41e0-a19e-7a6e44f1f2c7.PNG)
+
 #### ❔ Why :
 #### ☑️ Solutions : 
 
