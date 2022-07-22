@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# ☕ _Busan Coffee Road Map_ ☕
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
 
-## Available Scripts
+## 🔥 Link (BusanCoffeeRoadMap)
+[mainimag](https://user-images.githubusercontent.com/100752008/180446375-1c4bb7ef-97ff-4d8e-b2de-c2692d4d37cf.PNG)
+[main](https://user-images.githubusercontent.com/100752008/180446391-49649f1e-7c76-41e0-a19e-7a6e44f1f2c7.PNG)
+<!--  ### [Go To "BusanCoffeeRoadMap"](https://huunguk.github.io/AesopProject/) -->
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+## 🔎 Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**BusanCoffeeRoadMap**은 ~
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- 여행을 기반으로한 정보 공유 및 커뮤니티 기능을 가지고 있습니다.
+We are traveling의 약자이며 여행자들을 대상으로 서비스를 제공합니다.  
+     -->
+     
+<br>
 
-### `yarn test`
+## 🛠 Use Stack
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badg=flat-square&logo=React&logoColor=white"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⏰ Develop Period
+#### 2022. 07.20 ~  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👩‍💻 Collaborator
+- [진형욱](https://github.com/huunguk)
 
-### `yarn eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📌 TroubleShooting 
+### 1. 
+#### ❔ Why :
+#### ☑️ Solutions : 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+***
+### 2. 
+#### ❔ Why :
+#### ☑️ Solutions : 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+***
+### 3. 
+#### ❔ Why :
+#### ☑️ Solutions : 
