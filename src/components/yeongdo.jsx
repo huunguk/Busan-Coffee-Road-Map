@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Yeongdo_in from "./yeongdo_in";
-import './coffeeshopstyle.css';
+import "./coffeeshopstyle.css";
 
 class Yeongdo extends React.Component {
   constructor(props) {
@@ -16,9 +16,8 @@ class Yeongdo extends React.Component {
       <div>
         <Yeongdo_in />
       </div>
-    )
+    );
   }
 }
-
 
 export default Yeongdo;

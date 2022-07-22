@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Gwangan_in from "./gwangan_in";
-import './coffeeshopstyle.css';
+import "./coffeeshopstyle.css";
 
 class Gwangan extends React.Component {
   constructor(props) {
@@ -16,9 +16,8 @@ class Gwangan extends React.Component {
       <div>
         <Gwangan_in />
       </div>
-    )
+    );
   }
 }
-
 
 export default Gwangan;

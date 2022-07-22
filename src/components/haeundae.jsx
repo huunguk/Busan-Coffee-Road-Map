@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import './coffeeshopstyle.css';
+import "./coffeeshopstyle.css";
 import Haeundae_in from "./haeundae_in";
-
 
 class Haeundae extends React.Component {
   constructor(props) {
@@ -17,7 +16,7 @@ class Haeundae extends React.Component {
       <div>
         <Haeundae_in />
       </div>
-    )
+    );
   }
 }
 

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Seomyeon_in from "./seomyeon_in";
-import './coffeeshopstyle.css';
+import "./coffeeshopstyle.css";
 
 class Seomyeon extends React.Component {
   constructor(props) {
@@ -16,9 +16,8 @@ class Seomyeon extends React.Component {
       <div>
         <Seomyeon_in />
       </div>
-    )
+    );
   }
 }
-
 
 export default Seomyeon;
