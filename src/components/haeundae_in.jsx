@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import './coffeeshopstyle.css';
+import './MapContainerstyle.css';
 
 function Item({ user }) {
   return (

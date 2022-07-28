@@ -10,7 +10,7 @@ import { Link, Route } from 'react-router-dom';
 import MainCom from './mainCom';
 import CoffeeShop from './components/coffeeShop';
 import BestPlace from './components/bestPlace';
-import Login from './components/login';
+import OnePickPlace from './components/OnePick';
 import 'bootstrap/dist/css/bootstrap.css';
 
 
@@ -27,7 +27,7 @@ function App() {
           <div className='logo'></div>
           <ul className='nav'>
             <li><Link to='/components/bestPlace'>BestPlace</Link></li>
-            <li><Link to='/components/login'>Login</Link></li>
+            <li><Link to='/components/onePickPlace'>OnePickPlace</Link></li>
           </ul>
         </div>
       </header >
@@ -36,7 +36,7 @@ function App() {
         <Route path='/' exact={true} component={MainCom} />
         <Route path='/components/coffeeshop' component={CoffeeShop} />
         <Route path='/components/bestPlace' component={BestPlace} />
-        <Route path='/components/login' component={Login} />
+        <Route path='/components/onePickPlace' component={OnePickPlace} />
       </div >
     </div >
   );
