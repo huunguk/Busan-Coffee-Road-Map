@@ -6,6 +6,8 @@
 ![mainimag](https://user-images.githubusercontent.com/100752008/180446375-1c4bb7ef-97ff-4d8e-b2de-c2692d4d37cf.PNG)
 <!--  ### [Go To "BusanCoffeeRoadMap"](https://huunguk.github.io/AesopProject/) -->
 
+### [GO To "Dev-vlog(development retrospective)"](https://velog.io/@huunguk/BCRM-React-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0)
+
 <br>
 
 ## 🔎 Description
