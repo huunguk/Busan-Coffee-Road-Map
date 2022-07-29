@@ -49,7 +49,7 @@ const Location = () => {
             </div>
             <span class="rbox_span">
               <a href="https://map.naver.com/v5/entry/place/1836213025?id=1836213025">
-                도토리다방 더 알아보기
+                도토리다방 위치 자세히 알아보기
               </a>
             </span>
           </div>
