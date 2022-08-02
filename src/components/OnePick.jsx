@@ -37,13 +37,13 @@ const Location = () => {
             <div>
               <ul class="rbox_list">
                 <li>
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3OmHRxj65CepkJZNYhN0btRokVX2_VH2Pg&usqp=CAU"></img>
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM3OmHRxj65CepkJZNYhN0btRokVX2_VH2Pg&usqp=CAU" alt="imgae"></img>
                 </li>
                 <li>
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyoyhd4a-q0k-MKmVqQJTKROxZMD9AOU5jQ&usqp=CAU"></img>
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyoyhd4a-q0k-MKmVqQJTKROxZMD9AOU5jQ&usqp=CAU" alt="imgae"></img>
                 </li>
                 <li>
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLe8OntCO7_Ijq7QBuxrurcTYuMhz0Ms1Q-A&usqp=CAU"></img>
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLe8OntCO7_Ijq7QBuxrurcTYuMhz0Ms1Q-A&usqp=CAU" alt="imgae"></img>
                 </li>
               </ul>
             </div>

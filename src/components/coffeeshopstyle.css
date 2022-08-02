@@ -31,10 +31,10 @@
 
 .store_list {
   float: left;
-  margin: 30px 0px 20px 150px;
+  margin: 30px 0px 30px 150px;
   text-align: center;
   border: 1px solid rgb(66, 66, 66);
-  box-shadow: 1px 1px black;
+  box-shadow: 0.5px 0.5px 2px gray;
 }
 
 .store_img {
@@ -46,6 +46,7 @@
 .store_list h4 {
   margin-top: 10px;
   font-size: 16px;
+  font-weight: 900;
 }
 
 .store_list p {
